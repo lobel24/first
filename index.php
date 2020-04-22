@@ -1,4 +1,5 @@
 <?php
-// ez egy comment
 echo "Hello world!";
+
+echo "ize";
 ?>
